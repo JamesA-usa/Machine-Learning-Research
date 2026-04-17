@@ -175,8 +175,7 @@ GitHub: https://github.com/JamesA-usa/Machine-Learning-Research
 
 ## Author
 
-**Andrew J. Ahring**  
-M.S. Geographic Information Systems  
+**James A**  
 B.S. Data Analytics (WGU – Expected 2026)
 
 ---
