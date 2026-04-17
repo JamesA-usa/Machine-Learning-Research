@@ -167,12 +167,6 @@ This validates that anomaly differences across account types are meaningful.
 
 ---
 
-## Repository
-
-GitHub: https://github.com/JamesA-usa/Machine-Learning-Research
-
----
-
 ## Author
 
 **James A**  
