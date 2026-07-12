@@ -166,10 +166,3 @@ This validates that anomaly differences across account types are meaningful.
 - Zhang et al. (2021) – BERT for Cybersecurity  
 
 ---
-
-## Author
-
-**James A**  
-B.S. Data Analytics (WGU – Expected 2026)
-
----
